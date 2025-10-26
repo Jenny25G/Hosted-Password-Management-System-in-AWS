@@ -63,19 +63,19 @@ Add an architecture diagram image here: `assets/arch-diagram.png`.
 
 Screenshots of the deployed Passbolt instance are included in the directory. 
 
-* `img5.jpg`
-* `img9.jpg`
-* `img12.jpg`
-* `img15.jpg`
-* `img18.jpg`
-* `img21.jpg`
-* `img24.jpg`
-* `img25.jpg`
-* `img28.jpg`
-* `img31.jpg`
-* `img34.jpg`
-* `img37.jpg`
-* `img40.jpg`
+* img5.jpg
+* img9.jpg
+* img12.jpg
+* img15.jpg
+* img18.jpg
+* img21.jpg
+* img24.jpg
+* img25.jpg
+* img28.jpg
+* img31.jpg
+* img34.jpg
+* img37.jpg
+* img40.jpg
 ---
 
 ## Getting Started
