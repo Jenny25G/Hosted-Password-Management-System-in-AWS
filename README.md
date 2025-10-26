@@ -65,22 +65,19 @@ Screenshots of the deployed Passbolt instance are included in the directory.
 
 ## Screenshots
 
-![Login Page](assets/screenshots/img5.jpg)
-![Dashboard](assets/screenshots/img9.jpg)
-![](assets/screenshots/img15.jpg)
 ![](assets/screenshots/img5.jpg)
-* img9.jpg
-* img12.jpg
-* img15.jpg
-* img18.jpg
-* img21.jpg
-* img24.jpg
-* img25.jpg
-* img28.jpg
-* img31.jpg
-* img34.jpg
-* img37.jpg
-* img40.jpg
+![](assets/screenshots/img9.jpg)
+![](assets/screenshots/img15.jpg)
+![](assets/screenshots/img18.jpg)
+![](assets/screenshots/img21.jpg)
+![](assets/screenshots/img24.jpg)
+![](assets/screenshots/img25.jpg)
+![](assets/screenshots/img28.jpg)
+![](assets/screenshots/img31.jpg)
+![](assets/screenshots/img34.jpg)
+![](assets/screenshots/img37.jpg)
+![](assets/screenshots/img40.jpg)
+
 ---
 
 ## Getting Started
